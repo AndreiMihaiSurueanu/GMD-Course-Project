@@ -5,6 +5,30 @@
 [Bb]uilds/
 Assets/AssetStoreTools*
 
+# ========== Gradual project uploading ==========
+
+/*
+!/Assets
+/Assets/*
+!/Assets/MiniArcadeGames
+!/Assets/Audio
+!/Assets/MainGameScenes
+!/Assets/Scripts
+!/Assets/Scenes
+
+# Structure
+
+# /*
+# !/bitrix
+# /bitrix/*
+# !/bitrix/templates
+# /bitrix/templates/*
+# !/bitrix/templates/MY_SUPER_DUPER_TEMPLATE_directory
+# *.DS_Store
+# *.gitignore
+
+# ========== Gradual project uploading ==========
+
 # Visual Studio cache directory
 .vs/
 
